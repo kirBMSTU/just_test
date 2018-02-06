@@ -1,7 +1,6 @@
 # just_test
 
-git testsdfs repository DAROVA
-привет
+Тут лежат не особо важные файлики и всякий трэш.
 
 
 
